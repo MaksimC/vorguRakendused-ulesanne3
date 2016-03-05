@@ -1,0 +1,52 @@
+h2 {
+   color: black;
+   text-align: center;
+}
+body {background-color: lightgrey}
+
+#mainInfo{width:1000px; float:left; padding:10px;}
+
+#mainInfo pre {font-size: 120%; color: brown}
+#mainInfo p {text-decoration: underline}
+#image1 {display: block; margin-left: auto; margin-right: auto}
+#pictureText {text-align: center; color:darkblue}
+
+.sideTables a {color: white}
+
+#carMakes {
+    font-size: 120%;
+    background-color:darkslategrey;
+    color:white;
+    text-align:center;
+    padding:5px;
+    float: left;
+    line-height:30px;
+    height:615px;
+    width:250px;
+}
+
+#tyreBrands {
+    font-size: 120%;
+    background-color:darkslategrey;
+    color:white;
+    text-align:center;
+    padding:5px;
+    float: right;
+    line-height:30px;
+    height:615px;
+    width:250px;
+}
+
+#Magazine {
+    font-size: 110%;
+    background-color: lightgray;
+    color:darkblue;
+    text-align:center;
+    padding:5px;
+}
+
+#footer{
+    text-align: center;
+    clear:both;
+}
+#footer p {text-align: center}
